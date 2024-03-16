@@ -1,0 +1,3 @@
+After that, create .env file and fill with your details (see ".env.example" file to see the paramsexample). And then, run it with npm start.
+
+Whats inside? Its a bot designed to breeze through all tasks with minimal effort. Give it a try
